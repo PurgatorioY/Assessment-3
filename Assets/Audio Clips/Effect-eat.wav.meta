@@ -1,12 +1,20 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ffb159a21c8a04135a5616979c828fab
+=======
+guid: 29bde6326b4c34ad8a12da475f79b50a
+>>>>>>> Development
 labels:
 - Audio
 - Casual
 - Sound
 - SFX
 - Effect
+<<<<<<< HEAD
 timeCreated: 1453238771
+=======
+timeCreated: 1453238763
+>>>>>>> Development
 licenseType: Store
 AudioImporter:
   serializedVersion: 6
